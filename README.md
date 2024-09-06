@@ -16,4 +16,8 @@ Giving the solution of the problems that i solve on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
