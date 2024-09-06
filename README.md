@@ -20,6 +20,7 @@ Giving the solution of the problems that i solve on leetcode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,4 +29,9 @@ Giving the solution of the problems that i solve on leetcode
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
