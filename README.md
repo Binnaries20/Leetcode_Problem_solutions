@@ -20,4 +20,12 @@ Giving the solution of the problems that i solve on leetcode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0007-reverse-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
