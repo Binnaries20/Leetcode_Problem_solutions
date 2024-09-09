@@ -11,6 +11,7 @@ Giving the solution of the problems that i solve on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0069-sqrtx) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ Giving the solution of the problems that i solve on leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
