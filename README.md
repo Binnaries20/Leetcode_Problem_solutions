@@ -38,4 +38,8 @@ Giving the solution of the problems that i solve on leetcode
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
