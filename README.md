@@ -7,6 +7,7 @@ Giving the solution of the problems that i solve on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0118-pascals-triangle) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -42,4 +43,8 @@ Giving the solution of the problems that i solve on leetcode
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/3379-score-of-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
