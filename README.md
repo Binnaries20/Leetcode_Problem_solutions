@@ -38,6 +38,7 @@ Giving the solution of the problems that i solve on leetcode
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -47,4 +48,8 @@ Giving the solution of the problems that i solve on leetcode
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0118-pascals-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Binnaries20/Leetcode_Problem_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
